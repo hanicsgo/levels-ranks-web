@@ -1,0 +1,22 @@
+{
+	"your": 
+	{
+		"href":"http://anhemyenbai.ddns.net/demo/", 
+		"button":"Demo",
+		"text":"● Demo sau khi trận đấu kết thúc.<br>● 1 tháng server sẽ tự động xóa demo 1 lần, mong mọi người bỏ qua sự cố này." 
+	},
+	
+	"yourtwo": 
+	{
+		"href":"https://www.facebook.com/24kblossom/", 
+		"button":"Facebook Group", 
+		"text":"● Tham gia group để trao đổi với mọi người. <br>● Muốn mod được skin bạn hãy vào Group Steam." 
+	},
+	
+	"yourthree": 
+	{
+		"href":"rules", 
+		"button":"Rules", 
+		"text":"● Đọc kĩ rules trước khi vào server." 
+	}
+}

@@ -1,0 +1,35 @@
+{
+   "title": "LR WEB - Страница с правилами",
+   "info": "Правила игрового проекта",
+   "author": "zie. & //steamcommunity.com/id/ziegenhagel/",
+   "page": "rules",
+   "version": "0.01",
+   "required": {
+      "core": "0.2",
+      "php": "5.4"
+   },
+   "setting": {
+      "status": 1,
+      "type": 1,
+      "available_types": "1",
+      "interface": 1,
+      "data": 1,
+	   "js": 1,
+      "css": 1,
+      "cache_enable": 1,
+      "cache_time": 86400,
+      "translation": 1,
+      "data_always": 1
+   },
+   "sidebar": [
+      {
+         "href": "rules",
+         "open_new_tab": "0",
+         "icon_group": "zmdi",
+         "icon_category": null,
+         "icon": "collection-bookmark",
+         "name": "_Rules",
+         "sidebar_directory": "_Sidebar_statistics"
+      }
+   ]
+}

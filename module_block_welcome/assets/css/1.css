@@ -1,0 +1,332 @@
+.perclass{
+	margin-top: 30px;
+	margin-bottom:5px;
+	display: flex;
+}
+
+.vtoclass{
+	list-style-type:none;
+	width: 90px;
+	height: 90px;
+	margin:0 20px;
+	border: 4px solid var(--span-color);
+	border-radius: 50%;
+	transition:all 0.5s;
+	position:relative;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+
+.perclass .vtoclass .kas{
+	font-size:35px;
+	color: var(--span-color);
+	transition:all 0.5s;
+}
+
+.perclass .vtoclass:before{
+	content:"";
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	background-color:var(--span-color);
+	border-radius:50%;
+	z-index:-1;
+	transition:all esle-in-out 1s;
+	opacity:0;
+}
+
+.perclass .vtoclass:hover:before{
+	opacity:1;
+	transform:scale(0.7);
+	border: 1px solid var(--span-color);
+}
+
+.perclass .vtoclass:hover .kas{
+	color: var(--default-text-color);
+}
+
+.perclass .vtoclass:after{
+	content:"";
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	background-color:transparent;
+	border-radius:50%;
+	z-index: -1;
+	transition:all 0.5s;
+	opacity: 0;
+	border: 3px dashed var(--default-text-color);
+	box-sizing:border-box;
+}
+
+.vtoclass:hover:after{
+	opacity: 1;
+	animation:rotating 10s linear infinite;
+}
+
+@keyframes rotating{
+	0%{transform:scale(0.88) rotate(0deg);}
+	100%{transform:scale(0.88) rotate(360deg);}
+}
+
+.gg {
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    padding-right: 1px;
+    padding-left: 15px;
+}
+
+.gg {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.button-welcomer {
+  background: var(--span-color);;
+  margin : 20px auto;
+  width : 200px;
+  height : 50px;
+  overflow: hidden;
+  text-align : center;
+  transition : .2s;
+  cursor : pointer;
+  border-radius: 6px;
+  box-shadow: 0px 1px 2px rgba(0,0,0,.2);
+  padding-top: 2px;
+}
+
+.btnTwo {
+  position : relative;
+  width : 200px;
+  height : 105px;
+  margin-top: -100px;
+  padding-top: 5px;
+  background : rgb(0 0 0 / .2);
+  left : -250px;
+  transition : .7s;
+}
+
+.btnText {
+  color : var(--default-text-color);
+  transition : .7s;
+}
+
+.btnText2 {
+  margin-top : 63px;
+  margin-right : -150px;
+  color : var(--default-text-color);
+}
+
+.button-welcomer:hover .btnTwo{ 
+  left: -150px;
+}
+
+.button-welcomer:hover .btnText{ 
+  margin-left : 45px;
+}
+
+.button-welcomer:active { 
+  box-shadow: 0px 5px 6px rgba(0,0,0,0.3);
+}
+
+.center-welcomer {
+	position: relative;
+	left: 50%;
+	transform: translate(-50%, 0);
+}
+
+.center-welcomers {
+	display:flex;
+	position: relative;
+	left: 50%;
+	transform: translate(-50%, 0);
+}
+
+.titletext {
+	font-size: 14px;
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 5px;
+	display: flex;
+	color: var(--default-text-color);
+	font-weight: 700;
+	background-color: var(--span-color);
+	padding: 10px;
+	border-radius: 6px;
+}
+
+@media (max-width: 575.98px){
+	.perclass{
+	margin-top: 10px;
+	display: block;
+}
+
+.vtoclass{
+	list-style-type:none;
+	width: 40px;
+	height: 40px;
+	margin: 0 15px;
+	border: 2px solid var(--span-color);
+	border-radius: 50%;
+	transition:all 0.5s;
+	position:relative;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+
+.perclass .vtoclass .kas{
+	font-size: 15px;
+	color: var(--span-color);
+	transition:all 0.5s;
+}
+
+.perclass .vtoclass:before{
+	content:"";
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	background-color:var(--span-color);
+	border-radius:50%;
+	z-index:-1;
+	transition:all esle-in-out 1s;
+	opacity:0;
+}
+
+.perclass .vtoclass:hover:before{
+	opacity:1;
+	transform:scale(0.7);
+	border: 1px solid var(--span-color);
+}
+
+.perclass .vtoclass:hover .kas{
+	color: var(--default-text-color);
+}
+
+.perclass .vtoclass:after{
+	content:"";
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	background-color:transparent;
+	border-radius:50%;
+	z-index: -1;
+	transition:all 0.5s;
+	opacity: 0;
+	border: 1px dashed var(--default-text-color);
+	box-sizing:border-box;
+}
+
+.vtoclass:hover:after{
+	opacity: 1;
+	animation:rotating 10s linear infinite;
+}
+
+@keyframes rotating{
+	0%{transform:scale(0.88) rotate(0deg);}
+	100%{transform:scale(0.88) rotate(360deg);}
+}
+
+.gg {
+    position: relative;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+    padding-right: 1px;
+    padding-left: 15px;
+}
+
+.gg {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.button-welcomer {
+  background: var(--span-color);;
+  margin : 20px auto;
+  width : 210px;
+  height : 50px;
+  overflow: hidden;
+  text-align : center;
+  transition : .2s;
+  cursor : pointer;
+  border-radius: 6px;
+  box-shadow: 0px 1px 2px rgba(0,0,0,.2);
+  padding-top: 2px;
+}
+
+.btnTwo {
+  position : relative;
+  width : 200px;
+  height : 105px;
+  margin-top: -100px;
+  padding-top: 5px;
+  background : rgb(0 0 0 / .2);
+  left : -250px;
+  transition : .7s;
+}
+
+.btnText {
+  color : var(--default-text-color);
+  transition : .7s;
+}
+
+.btnText2 {
+  margin-top : 63px;
+  margin-right : -150px;
+  color : var(--default-text-color);
+}
+
+.button-welcomer:hover .btnTwo{ 
+  left: -150px;
+}
+
+.button-welcomer:hover .btnText{ 
+  margin-left : 45px;
+}
+
+.button-welcomer:active { 
+  box-shadow: 0px 5px 6px rgba(0,0,0,0.3);
+}
+
+.center-welcomer {
+	position: relative;
+	left: 50%;
+	transform: translate(-50%, 0);
+}
+
+.center-welcomers {
+	display:flex;
+	position: relative;
+	left: 50%;
+	transform: translate(-50%, 0);
+}
+
+.titletext {
+	font-size: 12px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 15px;
+	display: flex;
+	color: var(--default-text-color);
+	font-weight: 700;
+	background-color: var(--span-color);
+	padding: 10px;
+	border-radius: 6px;
+}
+}

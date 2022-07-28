@@ -1,0 +1,43 @@
+.main_blockt {
+	margin: 1rem;
+	padding: 1rem;
+	max-height: 300px;
+	max-width: 300px;
+	min-width: 300px;
+	border: 3px solid var(--span-color);
+	border-radius: 10px;
+	text-align: center;
+}
+
+.name_blockt {
+	margin: .5rem;
+}
+
+.role_blockt {
+	margin: .5rem;
+	background: linear-gradient(45deg, var(--sidebar-gradient-1), var(--sidebar-gradient-2));
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.social_blockt {
+	margin: .5rem;
+	justify-content: center;
+}
+
+.avatar img {
+	height: 5rem;
+	width: 5rem;
+	border-radius: 100%;
+}
+
+.blockt {
+	margin: 0px;
+	justify-content: center;
+}
+
+.icons img {
+	width: 30px;
+	height: 30px;
+	margin: .4rem;
+}

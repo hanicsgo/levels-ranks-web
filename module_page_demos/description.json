@@ -1,0 +1,37 @@
+{
+  "title": "LR WEB - Demos - Демо записи",
+  "info": "Интеграция плагина AutoDemos. Добавляет страницу со демками их описания.",
+  "author": "M0st1ce",
+  "page": "demos",
+  "version": "0.2",
+  "required": {
+    "core":"0.2","php":"5.4"
+  },
+  "setting": {
+    "status": "1",
+    "type": "1",
+    "available_types": "1",
+    "interface": "1",
+    "interface_adjacent": "afternavbar",
+    "data": "1",
+    "css": "1",
+    "js": "0"
+  },
+  "sidebar":
+  {
+    "0": {
+      "href": "?page=demos",
+      "open_new_tab": "0",
+      "icon_group": "zmdi",
+      "icon_category": "",
+      "icon": "movie-alt",
+      "name": "_Demos",
+      "sidebar_directory": "_Sidebar_servers"
+    }
+  },
+  "extra":
+  {
+    "count_demo_save": "60",
+    "count_match_history_save": "0"
+  }
+}

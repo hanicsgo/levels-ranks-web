@@ -1,0 +1,752 @@
+{
+    "_LK":{
+            "EN" : "Personal Area",
+            "RU" : "Личный Кабинет",
+            "UA" : "Особистий кабінет",
+            "LT" : "Asmeninė sąskaita"
+    },
+     "_OpenCase":{
+            "EN" : "Open Case",
+            "RU" : "Open Case",
+            "UA" : "Open Case",
+            "LT" : "Open Case"
+    },
+     "_SettingsBD":{
+            "EN" : "Database setup",
+            "RU" : "Настройка базы данных",
+            "UA" : "Налаштування бази даних",
+            "LT" : "Duomenų bazės nustatymas"
+    },
+    "_CasesForInstall":{
+            "EN" : "For the «Cases» module to work, you must have the module installed and the plug-in configured on the server",
+            "RU" : "Для работы модуля «Кейсы» у Вас должен быть установлен модуль и настроен на сервере плагин",
+            "UA" : "Для роботи модуля «Кейси» у Вас повинен бути встановлений модуль і налаштований на сервері плагін",
+            "LT" : "Kad „Cases“ modulis veiktų, turite būti įdiegę modulį ir sukonfigūravę papildinį serveryje"
+    },
+    "_Balance":{
+            "EN" : "Balance",
+            "RU" : "Баланс",
+            "UA" : "Баланс",
+            "LT" : "Balansas"
+    },
+    "_ButtonPay":{
+            "EN" : "Top up balance",
+            "RU" : "Пополнить баланс",
+            "UA" : "Поповнити баланс",
+            "LT" : "Papildykite pusiausvyrą"
+    },
+    "_AmountCourse":{
+            "EN" : "&#36;",
+            "RU" : "&#8381;",
+            "UA" : "&#8372;",
+            "LT" : "&#8364;"
+    },
+    "_UsersList":{
+            "EN" : "Players List",
+            "RU" : "Список игроков",
+            "UA" : "Список гравців",
+            "LT" : "Žaidėjų sąrašas"
+    },
+    "_DiscordMessage":{
+            "EN" : "Discord notifications",
+            "RU" : "Уведомления Discord",
+            "UA" : "Повідомлення Discord",
+            "LT" : "Pranešimai apie nesutarimus"
+    },
+    "_OpenCaseInstall":{
+            "EN" : "Installing the LR WEB module - Open Case",
+            "RU" : "Установка модуля LR WEB - Open Case",
+            "UA" : "Установка модуля LR WEB - Open Case",
+            "LT" : "„LR WEB“ modulio diegimas - „Open Case“"
+    },
+    "_DBCheckBTN":{
+            "EN" : "Check",
+            "RU" : "Проверить",
+            "UA" : "Перевірити",
+            "LT" : "Patikrinkite"
+    },
+    "_DBCheckConnect":{
+            "EN" : "There is no connection to the database!",
+            "RU" : "Подключение к базе данных отсутствует!",
+            "UA" : "Підключення до бази даних відсутня!",
+            "LT" : "Nėra ryšio su duomenų baze!"
+    },
+    "_DBCheckConnectSucc":{
+            "EN" : "Database with table connected successfully!",
+            "RU" : "База данных с таблицей успешно подключена!",
+            "UA" : "База даних з таблицею успішно підключена!",
+            "LT" : "Duomenų bazė su lentele sėkmingai sujungta!"
+    },
+    "_NextBTN":{
+            "EN" : "Next",
+            "RU" : "Далее",
+            "UA" : "Далі",
+            "LT" : "Kitas"
+    },
+    "_InstallBTN":{
+            "EN" : "Install",
+            "RU" : "Установить",
+            "UA" : "Встановити",
+            "LT" : "Įdiekite"
+    },
+    "_Example":{
+            "EN" : "Example",
+            "RU" : "Пример",
+            "UA" : "Приклад",
+            "LT" : "Pavyzdys"
+    },
+    "_Information":{
+            "EN" : "Information",
+            "RU" : "Информация",
+            "UA" : "Iнформація",
+            "LT" : "Informacija"
+    },
+    "_Php":{
+            "EN" : "Your version of PHP:",
+            "RU" : "Ваша версия PHP:",
+            "UA" : "Ваша версія PHP:",
+            "LT" : "Jūsų PHP versija:"
+    },
+    "_PhpRecomendation":{
+            "EN" : "Recommended: 7.0 - Possible galactic-scale problems :O",
+            "RU" : "Рекомендуется: 7.0 - Возможны проблемы галактического масштаба :O",
+            "UA" : "Рекомендується: 7.0 - Можливі проблеми галактичного масштабу :O",
+            "LT" : "Rekomenduojama: 7.0 - Galimos galaktikos masto problemos :O"
+    },
+    "_InstallTable":{
+            "EN" : "Installation of tables in the database",
+            "RU" : "Установка таблиц в базу данных",
+            "UA" : "Установка таблиць в базу даних",
+            "LT" : "Lentelių diegimas duomenų bazėje"
+    },
+    "_ForWork":{
+            "EN" : "For the module to work, the missing tables will be installed:",
+            "RU" : "Для работы модуля будут установлены недостающие таблицы:",
+            "UA" : "Для роботи модуля будуть встановлені відсутні таблиці:",
+            "LT" : "Kad modulis veiktų, bus įdiegtos trūkstamos lentelės:"
+    },
+    "_Options":{
+            "EN" : "Options",
+            "RU" : "Опции",
+            "UA" : "Опції",
+            "LT" : "Parinktys"
+    },
+    "_ServerName":{
+            "EN" : "Serever name",
+            "RU" : "Название Серевера",
+            "UA" : "Назва Серевера",
+            "LT" : "Sereverio vardas"
+    },
+    "_ServerName":{
+            "EN" : "Serever name",
+            "RU" : "Название Серевера",
+            "UA" : "Назва Серевера",
+            "LT" : "Sereverio vardas"
+    },
+    "_PASS":{
+            "EN" : "Password",
+            "RU" : "Пароль",
+            "UA" : "Пароль",
+            "LT" : "Slaptažodį"
+    },
+    "_SIP":{
+            "EN" : "IP Server",
+            "RU" : "IP Cервера",
+            "UA" : "IP Cервера",
+            "LT" : "IP serveris"
+    },
+    "_Server":{
+            "EN" : "Server",
+            "RU" : "Cервер",
+            "UA" : "Cервер",
+            "LT" : "Serveris"
+    },
+    "_SID":{
+            "EN" : "Server ID as in VIP_CORE.cfg",
+            "RU" : "ID сервера как в VIP_CORE.cfg",
+            "UA" : "ID сервера як в VIP_CORE.cfg",
+            "LT" : "Serverio ID, kaip nurodyta VIP_CORE.cfg"
+    },
+    "_AddServer":{
+            "EN" : "Add Server",
+            "RU" : "Добавить сервер",
+            "UA" : "Додати сервер",
+            "LT" : "Pridėti serverį"
+    },
+    "_EditServer":{
+            "EN" : "Server editing",
+            "RU" : "Редактирование сервера",
+            "UA" : "Редагування сервера",
+            "LT" : "Serverio redagavimas"
+    },
+    "_AddCase":{
+            "EN" : "Add Case",
+            "RU" : "Добавить кейс",
+            "UA" : "Додати кейс",
+            "LT" : "Pridėti case"
+    },
+    "_EditCase":{
+            "EN" : "Case editing",
+            "RU" : "Редактирование кейса",
+            "UA" : "Редагування кейса",
+            "LT" : "Сase redagavimas"
+    },
+    "_IMGASE":{
+            "EN" : "Case Image",
+            "RU" : "Изображение кейса",
+            "UA" : "Зображення кейса",
+            "LT" : "Atvejo vaizdas"
+    },
+    "_IMGSUB":{
+            "EN" : "Subject Image",
+            "RU" : "Изображение предмета",
+            "UA" : "Зображення предмета",
+            "LT" : "Prekės vaizdas"
+    },
+    "_CaseName":{
+            "EN" : "Case name",
+            "RU" : "Название кейса",
+            "UA" : "Назва кейса",
+            "LT" : "Case vardas"
+    },
+    "_CaseType":{
+            "EN" : "Case Type",
+            "RU" : "Тип кейса",
+            "UA" : "Тип кейса",
+            "LT" : "Case tipas"
+    },
+    "_ForMoney":{
+            "EN" : "For money",
+            "RU" : "Платный",
+            "UA" : "Pлатний",
+            "LT" : "Mokama"
+    },
+    "_Free":{
+            "EN" : "Free",
+            "RU" : "Free",
+            "UA" : "Безкоштовно",
+            "LT" : "Nemokamai"
+    },
+    "_OpPrice":{
+            "EN" : "Opening price",
+            "RU" : "Цена открытия",
+            "UA" : "Ціна відкриття",
+            "LT" : "Pradinė kaina"
+    },
+    "_Sort":{
+            "EN" : "Sorting",
+            "RU" : "Сортировка",
+            "UA" : "Сортування",
+            "LT" : "Rūšiavimas"
+    },
+    "_ServerList":{
+            "EN" : "Server List",
+            "RU" : "Cписок серверов",
+            "UA" : "Cписок серверів",
+            "LT" : "Serverių sąrašas"
+    },
+    "_CaseList":{
+            "EN" : "Case List",
+            "RU" : "Cписок кейсов",
+            "UA" : "Cписок кейсов",
+            "LT" : "Case sąrašas"
+    },
+    "_Title":{
+            "EN" : "Title",
+            "RU" : "Название",
+            "UA" : "Назва",
+            "LT" : "Pavadinimas"
+    },
+    "_CaseContent":{
+            "EN" : "Case Content",
+            "RU" : "Содержание кейса",
+            "UA" : "Зміст кейса",
+            "LT" : "Atvejo turinys"
+    },
+    "_Desc":{
+            "EN" : "Description",
+            "RU" : "Описание",
+            "UA" : "Описание",
+            "LT" : "Aprašymas"
+    },
+    "_Background":{
+            "EN" : "Background",
+            "RU" : "Фон",
+            "UA" : "Фон",
+            "LT" : "Bendrosios aplinkybės"
+    },
+    "_Type":{
+            "EN" : "Type",
+            "RU" : "Тип",
+            "UA" : "Тип",
+            "LT" : "Tipas"
+    },
+    "_Chance":{
+            "EN" : "Chance",
+            "RU" : "Шанс",
+            "UA" : "Шанс",
+            "LT" : "Tikimybė"
+    },
+    "_Content":{
+            "EN" : "Content",
+            "RU" : "Содержание",
+            "UA" : "Зміст",
+            "LT" : "Turinys"
+    },
+    "_SellingPrice":{
+            "EN" : "Selling price",
+            "RU" : "Цена продажи",
+            "UA" : "Ціна продажу",
+            "LT" : "Pardavimo kaina"
+    },
+    "_SelectImages":{
+            "EN" : "Select Image",
+            "RU" : "Выбрать изображение",
+            "UA" : "Вибрати зображення",
+            "LT" : "Pasirinkite Vaizdai"
+    },
+    "_InfoImages":{
+            "EN" : "Load the image using the dialog box or drag the images into the dotted area.",
+            "RU" : "Загрузите изображение с помощью диалогового окна или перетащите изображения в пунктирную область.",
+            "UA" : "Завантажте зображення за допомогою діалогового вікна та виділіть зображення в пунктирну область.",
+            "LT" : "Įkelkite vaizdą naudodami dialogo langą arba vilkite vaizdus į punktyrinę sritį."
+    },
+    "_AddItem":{
+            "EN" : "Add item",
+            "RU" : "Добавить предмет",
+            "UA" : "Додати предмет",
+            "LT" : "Pridėti elementą"
+    },
+    "_EditItem":{
+            "EN" : "Edit item",
+            "RU" : "Редактировать предмет",
+            "UA" : "Редагувати предмет",
+            "LT" : "Redaguoti elementą"
+    },
+    "_Save":{
+            "EN" : "Save",
+            "RU" : "Сохранить",
+            "UA" : "Зберегти",
+            "LT" : "Išsaugoti"
+    },
+    "_CaseSettings":{
+            "EN" : "Case Settings",
+            "RU" : "Настройка кейсов",
+            "UA" : "Налаштування кейсів",
+            "LT" : "Pritaikymas Case"
+    },
+    "_Open":{
+            "EN" : "Open",
+            "RU" : "Открыть",
+            "UA" : "Відкрити",
+            "LT" : "Atidaryti"
+    },
+    "_OpenFast":{
+            "EN" : "Open fast",
+            "RU" : "Открыть быстро",
+            "UA" : "Ввідкрити швидко",
+            "LT" : "Greitai atidarykite"
+    },
+    "_SelectServer":{
+            "EN" : "Select Server",
+            "RU" : "Выберите Сервер",
+            "UA" : "Виберіть Сервер",
+            "LT" : "Pasirinkite Serverį"
+    },
+    "_SelectType":{
+            "EN" : "Select item type",
+            "RU" : "Выберите тип предмета",
+            "UA" : "Виберіть тип предмета",
+            "LT" : "Pasirinkite elemento tipą"
+    },
+    "_THROUGH":{
+            "EN" : "WILL BE AVAILABLE THROUGH",
+            "RU" : "БУДЕТ ДОСТУПЕН ЧЕРЕЗ",
+            "UA" : "БУДЕ ДОСТУПНИЙ ЧЕРЕЗ",
+            "LT" : "BŪS PRIEINAMAS"
+    },
+    "_ContentCase":{
+            "EN" : "CASE CONTENT",
+            "RU" : "СОДЕРЖИМОЕ КЕЙСА",
+            "UA" : "ЗМІСТ КЕЙСА",
+            "LT" : "ATVEJO TURINYS"
+    },
+    "_MyWins":{
+            "EN" : "MY WINS",
+            "RU" : "МОИ ВЫИГРЫШИ",
+            "UA" : "МОЇ ВИГРАШІ",
+            "LT" : "MANAS VYNAS"
+    },
+    "_YourWin":{
+            "EN" : "YOUR WIN",
+            "RU" : "ВАШ ВЫИГРЫШ",
+            "UA" : "ВАШ ВИГРАШ",
+            "LT" : "JŪSŲ LAIMĖJIMAS"
+    },
+    "_Blue":{
+            "EN" : "Blue",
+            "RU" : "Синий",
+            "UA" : "Синій",
+            "LT" : "Mėlyna"
+    },
+    "_Red":{
+            "EN" : "Red",
+            "RU" : "Красный",
+            "UA" : "Червоний",
+            "LT" : "Raudona"
+    },
+    "_Gold":{
+            "EN" : "Golden",
+            "RU" : "Золотой",
+            "UA" : "Золотий",
+            "LT" : "Auksinė"
+    },
+    "_Purple":{
+            "EN" : "Purple",
+            "RU" : "Фиолетовый",
+            "UA" : "Фіолетовий",
+            "LT" : "Violetinė"
+    },
+    "_Pink":{
+            "EN" : "Pink",
+            "RU" : "Розовый",
+            "UA" : "Рожевий",
+            "LT" : "Rožinis"
+    },
+    "_Turquoise":{
+            "EN" : "Turquoise",
+            "RU" : "Бирюзовый",
+            "UA" : "Бiрюза",
+            "LT" : "Turkis"
+    },
+    "_Grey":{
+            "EN" : "Grey",
+            "RU" : "Серый",
+            "UA" : "Сірий",
+            "LT" : "Pilka"
+    },
+    "_Error":{
+            "EN" : "Oops, Error",
+            "RU" : "Упс, Ошибка",
+            "UA" : "Упс, Помилка",
+            "LT" : "Oi, klaida"
+    },
+    "_Take":{
+            "EN" : "Take It",
+            "RU" : "Забрать",
+            "UA" : "Забрати",
+            "LT" : "Paimk"
+    },
+    "_Sell":{
+            "EN" : "sell for",
+            "RU" : "продать за",
+            "UA" : "продати за",
+            "LT" : "parduoti už"
+    },
+    "_Webhook":{
+            "EN" : "Enter URL Webhook!",
+            "RU" : "Введите URL Вебхука!",
+            "UA" : "Введіть URL Вебхука!",
+            "LT" : "Įveskite URL Webhook!"
+    },
+    "_Saved":{
+            "EN" : "Saved",
+            "RU" : "Сохранено",
+            "UA" : "Збережено",
+            "LT" : "Išsaugota"
+    },
+    "_Activate":{
+            "EN" : "Activate",
+            "RU" : "Активировать",
+            "UA" : "Активувати",
+            "LT" : "Aktyvuoti"
+    },
+    "_Name":{
+            "EN" : "Name",
+            "RU" : "Наименованеие",
+            "UA" : "Найменування",
+            "LT" : "Vardas"
+    },
+    "_Price":{
+            "EN" : "Price",
+            "RU" : "Прайс",
+            "UA" : "Прайс",
+            "LT" : "Kaina"
+    },
+    "_AuthInfo":{
+            "EN" : "LogIn <br> to open cases",
+            "RU" : "Авторизуйтесь <br> чтобы открывать кейсы",
+            "UA" : "Авторизуйтесь <br> щоб відкривати кейси",
+            "LT" : "Prisijunkite <br> pradėti bylas"
+    },
+    "_Auth":{
+            "EN" : "LogIn",
+            "RU" : "Авторизоваться",
+            "UA" : "Авторизоваться",
+            "LT" : "Prisijunkite"
+    },
+    "_OpenTime":{
+            "EN" : "Time to open in format",
+            "RU" : "Время до открытия в формате",
+            "UA" : "Час до відкриття в форматі",
+            "LT" : "Laikas atidaryti formatu"
+    },
+    "_TypeMoney":{
+            "EN" : "Balance money",
+            "RU" : "Деньги на баланс",
+            "UA" : "Гроші на баланс",
+            "LT" : "Balansuoti pinigus"
+    },
+    "_ToBalance":{
+            "EN" : "Crediting to balance <br><small>Example: 20</small>",
+            "RU" : "Зачисление на баланс<br><small>Пример: 20</small>",
+            "UA" : "Зарахування на баланс<br><small>Приклад: 20</small>",
+            "LT" : "Kreditavimas norint subalansuoti <br><small>Pavyzdys: 20</small>"
+    },
+    "_PriceToSale":{
+            "EN" : "Selling price of an item <br><small>(indicate how much you can sell an item) Example: 50</small>",
+            "RU" : "Цена продажи предмета<br><small>(укажите за сколько можно продать предмет) Пример: 50</small>",
+            "UA" : "Ціна продажу предмета <br><small>(вкажіть за скільки можна продати предмет) Приклад: 50</small>",
+            "LT" : "Prekės pardavimo kaina <br><small>(nurodykite, kiek galite parduoti daiktą)Pavyzdys: 50</small>"
+    },
+    "_SubjectContent":{
+            "EN" : "Content of the item<br><small>(Indicate what will be shown when opening the item after winning<br>key or message)</small>",
+            "RU" : "Содержание предмета<br><small>(Указывать что будет показано при открытии предмета после выигрыша<br>ключ или кокое-то сообщение)</small>",
+            "UA" : "Зміст предмета<br><small>(Вказувати що буде показано при відкритті предмета після виграшу<br>ключ або кокое-то повідомлення)</small>",
+            "LT" : "Prekės turinys <br><small>(nurodykite, kas bus rodoma atidarant prekę laimėjus raktą ar pranešimą)</small>"
+    },
+    "_GroupVIP":{
+            "EN" : "Enter the group and time privilege validity through «:» <a href='https://www.cy-pr.com/tools/time/' target='_blanck'>UNIX TIME<a/><br><small>example: VIP:3600 (to be issued for 1 hour)</small>",
+            "RU" : "Введите группу и время действие привилегии через «:» <a href='https://www.cy-pr.com/tools/time/' target='_blanck'>UNIX TIME<a/><br><small> пример: VIP:3600 (будет выдано на 1 час)</small>",
+            "UA" : "Введіть групу і час дія привілеї через «:» <a href='https://www.cy-pr.com/tools/time/' target='_blanck'>UNIX TIME<a/><br><small>приклад: VIP 3600 (буде видано на 1 годину)</small>",
+            "LT" : "Įveskite grupės ir laiko privilegijų galiojimą per «:» <a href='https://www.cy-pr.com/tools/time/' target='_blanck'>UNIX TIME<a/><br><small>pavyzdys: VIP:3600 (bus išduodamas 1 valandai)</small>"
+    },
+    "_GroupADM":{
+            "EN" : "Enter the group and time privilege validity through «:» <a href='https://www.cy-pr.com/tools/time/' target='_blanck'>UNIX TIME<a/><br><small>example: Admin:3600 (to be issued for 1 hour)</small>",
+            "RU" : "Введите группу и время действие привилегии через «:» <a href='https://www.cy-pr.com/tools/time/' target='_blanck'>UNIX TIME<a/><br><small> пример: Admin:3600 (будет выдано на 1 час)</small>",
+            "UA" : "Введіть групу і час дія привілеї через «:» <a href='https://www.cy-pr.com/tools/time/' target='_blanck'>UNIX TIME<a/><br><small>приклад: Admin:3600 (буде видано на 1 годину)</small>",
+            "LT" : "Įveskite grupės ir laiko privilegijų galiojimą per «:» <a href='https://www.cy-pr.com/tools/time/' target='_blanck'>UNIX TIME<a/><br><small>pavyzdys: Admin:3600 (bus išduodamas 1 valandai)</small>"
+    },
+    "_CreditsCredited":{
+            "EN" : "Number of credits to be credited",
+            "RU" : "Количество кредитов к зачислению",
+            "UA" : "Кількість кредитів до зарахування",
+            "LT" : "Kredituojamų kreditų skaičius"
+    },
+    "_CreditsCredited":{
+            "EN" : "Number of credits to be credited",
+            "RU" : "Количество кредитов к зачислению",
+            "UA" : "Кількість кредитів до зарахування",
+            "LT" : "Kredituojamų kreditų skaičius"
+    },
+    "_LevelsCredited":{
+            "EN" : "Number of levels to be credited",
+            "RU" : "Количество уровней к зачислению",
+            "UA" : "Кількість рівнів до зарахування",
+            "LT" : "Kredituojamų lygių skaičius"
+    },
+    "_ExperienceCredited":{
+            "EN" : "The amount of experience to enroll",
+            "RU" : "Количество опыта к зачислению",
+            "UA" : "Кількість досвіду до зарахування",
+            "LT" : "Patirties, kurią norite įstoti, kiekis"
+    },
+    "_GroupWCS":{
+            "EN" : "Enter race name and time of action in hours via «:»<br><small> example: WCS: 1 (will be issued for 1 hour)</small>",
+            "RU" : "Введите название рассы и время действие в часах через «:»<br><small>пример: WCS:1 (будет выдано на 1 час)</small>",
+            "UA" : "Введіть назву розсису і час дії в час через «:»<br><small> приклад: WCS: 1 (буде видано за 1 годину)</sm>",
+            "LT" : "Įveskite lenktynių pavadinimą ir varžybų laiką valandomis per «:»<br><small>pavyzdys: WCS: 1 (bus išduodamas 1 valandai)</small>"
+    },
+    "_EnterNameCase":{
+            "EN" : "Enter the name of the case!",
+            "RU" : "Введите название кейса!",
+            "UA" : "Введіть назву кейса!",
+            "LT" : "Įveskite bylos pavadinimą!"
+    },
+    "_EnterSortCase":{
+            "EN" : "Enter the sort value!",
+            "RU" : "Введите значение сортировки!",
+            "UA" : "Введіть значення сортування!",
+            "LT" : "Įveskite rūšiavimo vertę!"
+    },
+    "_EnterAmountCase":{
+            "EN" : "Enter the case opening amount!",
+            "RU" : "Введите сумму открытия кейса!",
+            "UA" : "Введіть суму відкриття кейса!",
+            "LT" : "Įveskite bylos atidarymo sumą!"
+    },
+    "_FormatAmountCase":{
+            "EN" : "Invalid amount format: 10 or 10.00!",
+            "RU" : "Не верный формат суммы: 10 или 10.00!",
+            "UA" : "Не вірний формат суми: 10 або 10.00!",
+            "LT" : "Netinkamas sumos formatas: 10 arba 10.00!"
+    },
+    "_Privilege":{
+            "EN" : "Privilege",
+            "RU" : "Привилегия",
+            "UA" : "Привілей",
+            "LT" : "Privilegija"
+    },
+    "_OnlyPNG":{
+            "EN" : "You can download only PNG format!",
+            "RU" : "Загрузить можно только PNG формат!",
+            "UA" : "Завантажити можна тільки PNG формат!",
+            "LT" : "Galite atsisiųsti tik PNG formatą!"
+    },
+    "_ChangeCasePNG":{
+            "EN" : "Select images for the case PNG format!",
+            "RU" : "Выберите изображения для кейса формат PNG!",
+            "UA" : "Виберіть зображення для кейса формат PNG!",
+            "LT" : "Pasirinkite atvejus PNG formatui!"
+    },
+    "_SizePNG":{
+            "EN" : "Image must not exceed 400px by 400px!",
+            "RU" : "Изображение не должно превышать 400px на 400px!",
+            "UA" : "Зображення не повинно перевищувати 400px на 400px!",
+            "LT" : "Vaizdas neturi viršyti 400 x 400 taškų!"
+    },
+    "_CaseNotFound":{
+            "EN" : "Case not found!",
+            "RU" : "Кейс не найден!",
+            "UA" : "Кейс не знайден!",
+            "LT" : "Byla nerasta!"
+    },
+    "_CaseDeleted":{
+            "EN" : "Case deleted!",
+            "RU" : "Кейс удален!",
+            "UA" : "Кейс знищений!",
+            "LT" : "Byla ištrinta!"
+    },
+    "_EnterSubjectName":{
+            "EN" : "Enter the name of the item!",
+            "RU" : "Введите название предмета!",
+            "UA" : "Введіть назву предмета!",
+            "LT" : "Įveskite prekės pavadinimą!"
+    },
+    "_EnterSubjectShortDesc":{
+            "EN" : "Enter a short description!",
+            "RU" : "Введите короткое описание!",
+            "UA" : "Введіть короткий опис!",
+            "LT" : "Įveskite trumpą aprašymą!"
+    },
+    "_EnterSubjectPrize":{
+            "EN" : "Enter the item prize!",
+            "RU" : "Введите приз предмета!",
+            "UA" : "Введіть приз предмета!",
+            "LT" : "Įveskite daikto prizą!"
+    },
+    "_ChangeSubjectPNG":{
+            "EN" : "Select images for the subject PNG format!",
+            "RU" : "Выберите изображения для предмета формат PNG!",
+            "UA" : "Виберіть зображення для предмета формат PNG!",
+            "LT" : "Pasirinkite vaizdus pagal objekto PNG formatą!"
+    },
+    "_SubjectNotFound":{
+            "EN" : "Item not found!",
+            "RU" : "Предмет не найден!",
+            "UA" : "Предмет не знайден!",
+            "LT" : "Prekės nerasta"
+    },
+    "_ErrorAdminSend":{
+            "EN" : "Sorry, an error has occurred! Please contact the Administrator!",
+            "RU" : "К сожалению произошла ошибка!Пожалуйста обратитесь к Администратору!",
+            "UA" : "На жаль сталася помилка! Будь ласка зверніться до Адміністратора!",
+            "LT" : "Deja, įvyko klaida! Susisiekite su administratoriumi!"
+    },
+    "_NoMoney":{
+            "EN" : "You don’t have enough money to open a case! Top up your balance!",
+            "RU" : "У Вас недосточно средств для открытия кейса! Пополните Ваш баланс!",
+            "UA" : "У Вас недосточності коштів для відкриття кейса! Поповніть Ваш баланс!",
+            "LT" : "Jūs neturite pakankamai lėšų bylai iškelti! Padidinkite savo balansą!"
+    },
+    "_ReplenishBalance":{
+            "EN" : "replenish balance",
+            "RU" : "пополнить баланс",
+            "UA" : "поповнити баланс",
+            "LT" : "papildyti pusiausvyrą"
+    },
+    "_WillAvailable":{
+            "EN" : "You have already opened this case!<br> will be available through",
+            "RU" : "Вы уже открывали данный кейс!<br>будет доступен через",
+            "UA" : "Ви вже відкривали даний кейс!<br> буде доступний через",
+            "LT" : "Jūs jau atidarėte šią bylą! <br> bus galima rasti per"
+    },
+    "_HavePrivelege":{
+            "EN" : "Unfortunately, giving you a privilege is not possible because you already have the privilege forever. You can sell this item for ",
+            "RU" : "К сожалению выдать Вам привилегию не возможно т.к у Вас имеется уже привилегия навсегда. Вы можете продать данный предмет за ",
+            "UA" : "На жаль видати Вам привілей неможливо т.к у Вас є вже привілей назавжди. Ви можете продати даний предмет за ",
+            "LT" : "Deja, suteikti jums privilegijos neįmanoma, nes tokią privilegiją jau turite amžinai. Galite parduoti šią prekę "
+    },
+    "_OpenCaseList":{
+            "EN" : "List of open cases",
+            "RU" : "Список открытых кейсов",
+            "UA" : "Перелік відкритих кейсів",
+            "LT" : "Neišspręstų bylų sąrašas"
+    },
+    "_No":{
+            "EN" : "No I do not want to",
+            "RU" : "Нет, не хочу",
+            "UA" : "Ні не хочу",
+            "LT" : "Ne, aš nenoriu"
+    },
+    "_Yes":{
+            "EN" : "Yes, change",
+            "RU" : "Да, сменить",
+            "UA" : "Да, змінити",
+            "LT" : "Taip, pakeisti"
+    },
+    "_VoteHavePrivelege":{
+            "EN" : "You already have the privilege, are you sure you want to change?",
+            "RU" : "У вас уже имеется привилегия, Вы уверены что хотите сменить?",
+            "UA" : "У вас вже є привілей, Ви впевнені що хочете змінити?",
+            "LT" : "Jūs jau turite privilegiją, ar tikrai norite pakeisti?"
+    },
+    "_No2":{
+            "EN" : "I changed my mind",
+            "RU" : "я передумал",
+            "UA" : "я передумав",
+            "LT" : "Persigalvojau"
+    },
+    "_Yes2":{
+            "EN" : "yes to this server",
+            "RU" : "да, на этот сервер",
+            "UA" : "да, на цей сервер",
+            "LT" : "taip šiam serveriui"
+    },
+    "_SetUserServer":{
+            "EN" : "Indicate which server to issue the Privilege",
+            "RU" : "Укажите на какой сервер выдать Привилегию",
+            "UA" : "Вкажіть на який сервер видати Привілей",
+            "LT" : "Nurodykite, kuriam serveriui išduoti privilegiją"
+    },
+    "_Updates":{
+            "EN" : "Updates",
+            "RU" : "Обновления",
+            "UA" : "Оновлення",
+            "LT" : "Atnaujinimai"
+    },
+    "_Available":{
+            "EN" : "Available for installation under license <br> Module version",
+            "RU" : "Доступно к установке по лицензии <br>Версия модуля",
+            "UA" : "Доступно до установки по ліцензії <br> Версія модуля",
+            "LT" : "Galima diegti pagal licenciją <br> Modulio versija"
+    },
+    "_LicenseСheck":{
+            "EN" : "License check",
+            "RU" : "Проверка лицензии",
+            "UA" : "Перевірка ліцензії",
+            "LT" : "Licencijų patikrinimas"
+    },
+    "_LicenseKey":{
+            "EN" : "License key:",
+            "RU" : "Лицензионный ключ:",
+            "UA" : "Ліцензійний ключ:",
+            "LT" : "Licencijos raktas:"
+    },
+    "_FailedDownload":{
+            "EN" : "Failed to download updates! Turn on debug and try again!",
+            "RU" : "Не удалось загрузить обновления! Включите дебаг и попробуйте снова!",
+            "UA" : "Не вдалося завантажити оновлення! Увімкніть дебаг і спробуйте знову!",
+            "LT" : "Nepavyko atsisiųsti atnaujinimų! Įjunkite derinimo funkciją ir bandykite dar kartą!"
+    }
+}
