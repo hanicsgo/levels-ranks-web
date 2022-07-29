@@ -1,9 +1,9 @@
 
 <?php
 /**
-     * @author ! mLxG^^#0310
+     * @author hani in love ^^#0310
      *
-     * @link https://steamcommunity.com/id/hanics
+     * @link https://steamcommunity.com/id/haniicsgo
      *
     */
     ?>
