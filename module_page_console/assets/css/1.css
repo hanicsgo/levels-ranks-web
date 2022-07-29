@@ -1,0 +1,6 @@
+.input_text a:hover,
+#console_content a:hover
+{
+    cursor: pointer;
+    text-decoration: underline;
+}

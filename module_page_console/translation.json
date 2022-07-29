@@ -1,0 +1,74 @@
+{
+     "_Console":{
+            "EN" : "Console",
+            "RU" : "Консоль",
+            "UA" : "Консоль",
+            "LT" : "Console"
+    },
+     "_Server":{
+            "EN" : "Server",
+            "RU" : "Сервер",
+            "UA" : "Сервер",
+            "LT" : "Serveris"
+    },
+     "_ChangeMap":{
+            "EN" : "Change map",
+            "RU" : "Смена карты",
+            "UA" : "Зміна карти",
+            "LT" : "Pakeisti kortelę"
+    },
+     "_Send":{
+            "EN" : "Send",
+            "RU" : "Отправить",
+            "UA" : "Надіслати",
+            "LT" : "Pateikti"
+    },
+     "_EnterСommand":{
+            "EN" : "Enter the command!",
+            "RU" : "Введите команду!",
+            "UA" : "Введіть команду!",
+            "LT" : "Įveskite komandą!"
+    },
+     "_ChooseServers":{
+            "EN" : "Choose a server or multiple servers!",
+            "RU" : "Укажите сервер или несколько серверов!",
+            "UA" : "Виберіть сервер або кілька серверів!",
+            "LT" : "Pasirinkite serverį ar kelis serverius!"
+    },
+     "_ServerNotFound":{
+            "EN" : "Server not found!",
+            "RU" : "Сервер не найден!",
+            "UA" : "Сервер не найден!",
+            "LT" : "Serveris nerastas!"
+    },
+     "_FailedConnect":{
+            "EN" : "failed to connect to the server!",
+            "RU" : "неудалось подключится к серверу!",
+            "UA" : "неудалось підключиться до сервера!",
+            "LT" : "nepavyko prisijungti prie serverio!"
+    },
+     "_ServerMaps":{
+            "EN" : "Server Maps:",
+            "RU" : "Карты сервера:",
+            "UA" : "Карти сервера:",
+            "LT" : "Serverio žemėlapiai:"
+    },
+     "_SetMap":{
+            "EN" : "Change map to:",
+            "RU" : "Смена карты на:",
+            "UA" : "Зміна карти на:",
+            "LT" : "Pakeisti kortelę į:"
+    },
+     "_CopyContents":{
+            "EN" : "Copy the entire contents of the request",
+            "RU" : "Скопировать все содержимое запроса",
+            "UA" : "Скопіювати весь вміст запиту",
+            "LT" : "Nukopijuokite visą užklausos turinį"
+    },
+     "_Change":{
+            "EN" : "change",
+            "RU" : "сменить",
+            "UA" : "змінити",
+            "LT" : "pasikeisti"
+    }
+}
